@@ -11,6 +11,18 @@ const fetchDAta = async (searchTerm) => {
     }
     return response.data.Search;
 };
+
+const root = document.querySelector('.autocomplete');
+root.innerHTML = `
+  <label><b> Search for movie </b></label>
+  <input type="text" name="" value="" placeholder="search for movie">
+  <div class="dropdown">
+    <div class="dropdown-menu">
+      <div class="dropdown-content results"></div>
+    </div>
+  </div>
+`;
+
 // create input variable
 const input = document.querySelector('input');
 //iterate thry movies objects from api
