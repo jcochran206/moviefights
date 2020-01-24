@@ -3,7 +3,7 @@ const fetchDAta = async (searchTerm) => {
   axios.get('http://www.omdbapi.com/', {
       params: {
         s: searchTerm,
-        apikey: '7c5eb97f',
+        apikey: 'your_api_here',
       }
     })
     .then(function (response) {
