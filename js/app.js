@@ -99,6 +99,30 @@ const movieTemplate = (movieDetail) => {
       </div>
     </div>
   </article>
+  <article class="notification is-primary">
+    <p class="title">${movieDetail.Awards}</p>
+    <p class="subtitle">Awards</>
+  </article>
+
+  <article class="notification is-primary">
+    <p class="title">${movieDetail.BoxOffice}</p>
+    <p class="subtitle">Box Office</>
+  </article>
+
+  <article class="notification is-primary">
+    <p class="title">${movieDetail.Metascore}</p>
+    <p class="subtitle">Metascore</>
+  </article>
+
+  <article class="notification is-primary">
+    <p class="title">${movieDetail.imdbRating}</p>
+    <p class="subtitle">IMDB Rating</>
+  </article>
+
+  <article class="notification is-primary">
+    <p class="title">${movieDetail.imdbVotes}</p>
+    <p class="subtitle">IMDB Votes</>
+  </article>
   `;
 
 }
