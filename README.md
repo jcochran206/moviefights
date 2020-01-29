@@ -30,3 +30,4 @@ Jonathan Cochran 2020
 This software is licensed under the MIT License for open source software
 
 ## screenshots of app
+![](img/moviefight1.png)
