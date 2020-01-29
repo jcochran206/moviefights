@@ -30,6 +30,6 @@ Jonathan Cochran 2020
 This software is licensed under the MIT License for open source software
 
 ## screenshots of app
-![](img/moviefight1.png) start of app
+<img src="img/moviefight.png" width="300"/>
 ![](img/selectshot.png) user select dropdown dynamically pull from api
-![](img/Compareshot.png) app comparing data between movies 
+![](img/Compareshot.png) app comparing data between movies
