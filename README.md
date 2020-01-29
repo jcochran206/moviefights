@@ -30,9 +30,9 @@ Jonathan Cochran 2020
 This software is licensed under the MIT License for open source software
 
 ## screenshots of app
-<label> start </label>
-<img src="img/moviefight.png" width="700"/>
-<label> selection of movies </label>
-<img src="img/selectshot.png" width="700"/>
-<label> comparison </label>
-<img src="img/Compareshot.png" width="700"/>
+
+<img src="img/moviefight.png" />
+
+<img src="img/selectshot.png" />
+
+<img src="img/Compareshot.png" />
