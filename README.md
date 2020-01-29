@@ -3,8 +3,8 @@ this app allows the user to pit one movie against another for movie domination. 
 
 ## Description:
 application obtains data from omdbapi and dynamically generates data.  The user can choose a movie and compare it to another.  The logic will highlight which movie is rated higher based on the movie stats.  
-[] option one : is brute force code to get search bar and api items to show on page
-[] option two : refactoring code to use spread operators and usability of code
+- option one : is brute force code to get search bar and api items to show on page
+- option two : refactoring code to use spread operators and usability of code
 
 ## Technologies used:
 - html
@@ -28,3 +28,5 @@ Jonathan Cochran 2020
 
 ## legal
 This software is licensed under the MIT License for open source software
+
+## screenshots of app
